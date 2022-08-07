@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+.picker{
+	width: 350px;
+}
+
+.picker td{
+	padding: 5px;
+}
